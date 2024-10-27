@@ -1,0 +1,9 @@
+# .gitignore
+.env
+node_modules
+.vercel
+oauth_config
+cache
+oauth_config.json
+cookies.txt
+downloads
